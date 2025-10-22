@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strtrim.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/20 16:03:43 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/21 11:36:16 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:27:07 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:27:10 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

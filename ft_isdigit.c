@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isdigit.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/09/23 20:55:05 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/17 15:12:01 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:23:02 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:23:05 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_tolower.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/09/24 21:56:15 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/17 15:39:00 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:27:23 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:27:26 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

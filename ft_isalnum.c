@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isalnum.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/09/23 21:04:47 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/20 12:43:04 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:22:32 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:22:37 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

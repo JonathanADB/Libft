@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+         #
+#    By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2025/10/21 10:56:31 by jonadomi          #+#    #+#              #
-#    Updated: 2025/10/21 11:27:09 by jonadomi         ###   ########.fr        #
+#    Created: 2025/10/21 16:27:51 by jonadomi          #+#    #+#              #
+#    Updated: 2025/10/21 16:27:54 by jonadomi         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -48,7 +48,7 @@ MY_SOURCES = 	ft_atoi.c\
 				ft_tolower.c
 
 OBJS = $(MY_SOURCES:.c=.o)				
-CC = gcc 
+CC = cc 
 CCFLAGS = -Wall -Wextra -Werror
 RM = rm -rf
  

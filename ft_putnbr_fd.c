@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_fd.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/20 22:14:45 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/20 22:35:05 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:24:56 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:24:59 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

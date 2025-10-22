@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isprint.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/09/24 19:25:59 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/17 15:13:49 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:23:13 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:23:15 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memmove.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/10/08 15:27:50 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/17 15:30:32 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:24:12 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:24:14 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

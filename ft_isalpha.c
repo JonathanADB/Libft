@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isalpha.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jonadomi <jonadomi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/09/23 20:53:56 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/17 15:05:33 by jonadomi         ###   ########.fr       */
+/*   Created: 2025/10/21 16:22:43 by jonadomi          #+#    #+#             */
+/*   Updated: 2025/10/21 16:22:46 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
