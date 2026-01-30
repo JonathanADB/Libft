@@ -6,7 +6,7 @@
 /*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/21 16:27:41 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/21 16:27:44 by jonadomi         ###   ########.fr       */
+/*   Updated: 2026/01/30 20:44:20 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,6 +42,7 @@ char	*ft_strdup(const char *s);
 char	*ft_substr(char const *s, unsigned int start, size_t len);
 char	*ft_strjoin(char const *s1, char const *s2);
 char	*ft_strtrim(char const *s1, char const *set);
+void	free_split(char **result);
 char	**ft_split(char const *s, char c);
 char	*ft_itoa(int n);
 char	*ft_strmapi(char const *s, char (*f)(unsigned int, char));

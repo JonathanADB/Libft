@@ -6,7 +6,7 @@
 /*   By: jonadomi <jonadomi@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/21 16:25:16 by jonadomi          #+#    #+#             */
-/*   Updated: 2025/10/21 16:25:19 by jonadomi         ###   ########.fr       */
+/*   Updated: 2026/01/30 20:40:45 by jonadomi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,7 +39,7 @@ static int	fill_split(char const *s, char c, char **result)
 	i = 0;
 	while (*s)
 	{
-		while (*s == c)
+		while (*s && *s == c)
 			s++;
 		len = 0;
 		while (s[len] && s[len] != c)
@@ -56,11 +56,13 @@ static int	fill_split(char const *s, char c, char **result)
 	return (0);
 }
 
-static void	free_split(char **result)
+void	free_split(char **result)
 {
 	size_t	i;
 
 	i = 0;
+	if (!result)
+		return ;
 	while (result[i])
 		free(result[i++]);
 	free(result);
